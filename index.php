@@ -1,8 +1,8 @@
 <?php
 /*
- * Plugin Name: WP Anti AdBlock Google - Google Adsense AdBlock Integration
- * Plugin URI: mailto:ronald3217@gmail.com
- * Description: Add Google Adsense AdBlock Integration
+ * Plugin Name: Anti AdBlock Google - Google Adsense AdBlock Integration
+ * Plugin URI: https://github.com/Ronald3217/WP-Anti-Adblock-Google
+ * Description: Add Google Adsense AdBlock Integration to your WordPress, using Google Messages.
  * Version:           0.1.0
  * Requires at least: 6.2.2
  * Requires PHP:      7.4
